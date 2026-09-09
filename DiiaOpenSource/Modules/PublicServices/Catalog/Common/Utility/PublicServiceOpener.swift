@@ -2,6 +2,7 @@
 import Foundation
 import ReactiveKit
 import DiiaMVPModule
+import UIKit
 import DiiaCommonTypes
 import DiiaCommonServices
 
